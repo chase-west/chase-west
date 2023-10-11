@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**chase-west/chase-west** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🙋‍♂️ Charles/Chase West 15 yr old. 
 
-Here are some ideas to get you started:
+👨‍🎓 I'm currently pursuing a CIT degree from community college
+while in high school. I plan to go to college and study Computer Science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 I've technically been coding since I was 12 but
+I got more serious when I was 14. 
+
+🏋️ Outside of coding a great passion of mine is weightlifting
+and I hope to incorporate it into a project soon.
+
+🏆 My best project is my recipes app for weightlifting.
+It helped me develop really important skills in SQL and python. 
