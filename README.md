@@ -1,4 +1,4 @@
-![api](https://github.com/chase-west/chase-west/assets/57733840/ea787676-9bc6-485c-baba-e758434182b5)### Hi there 👋
+### Hi there 👋
 
 🙋‍♂️ Charles/Chase West 15 yr old. 
 
@@ -13,6 +13,11 @@ and I hope to incorporate it into a project soon.
 
 🏆 My best project is my recipes app for weightlifting.
 It helped me develop really important skills in SQL and python. 
+
+![api](https://github.com/chase-west/chase-west/assets/57733840/ea787676-9bc6-485c-baba-e758434182b5)
+
+
+
       <svg
         width="467"
         height="195"
