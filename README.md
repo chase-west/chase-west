@@ -8,7 +8,7 @@ while in high school. I plan to go to college and study Computer Science.
 I got more serious when I was 14. 
 
 🏋️ Outside of coding a great passion of mine is weightlifting
-and I hope to incorporate it into a project soon.
+and I hope to incorporate it into more projects soon.
 
 🏆 My best project is my recipes app for weightlifting.
 It helped me develop really important skills in SQL and python. 
