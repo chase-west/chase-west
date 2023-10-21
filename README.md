@@ -15,7 +15,7 @@ It helped me develop really important skills in SQL and python.
 
 # Stats 
 
-![api](https://github.com/chase-west/chase-west/assets/57733840/ea787676-9bc6-485c-baba-e758434182b5)
+![chase-west's Stats](https://github-readme-stats.vercel.app/api?username=chase-west&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 
 ![chase-west's Streak](https://github-readme-streak-stats.herokuapp.com/?user=chase-west&theme=vue-dark&hide_border=true)
