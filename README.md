@@ -16,13 +16,12 @@ and I hope to incorporate it into more projects soon.
 
 # Stats 
 
-![chase-west's Stats](https://github-readme-stats.vercel.app/api?username=chase-west&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![chase-west's Stats](https://github-readme-stats.vercel.app/api?username=chase-west&theme=prussian&show_icons=true&hide_border=false&count_private=true)
 
 
-![chase-west's Streak](https://github-readme-streak-stats.herokuapp.com/?user=chase-west&theme=vue-dark&hide_border=true)
+![chase-west's Streak](https://github-readme-streak-stats.herokuapp.com/?user=chase-west&theme=prussian&hide_border=false)
 
 # Languages 
-![chase-west's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chase-west&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
+![chase-west's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chase-west&theme=prussian&show_icons=true&hide_border=false&layout=compact)
 
 
