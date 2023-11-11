@@ -21,8 +21,6 @@ and I hope to incorporate it into more projects soon.
 
 ![chase-west's Streak](https://github-readme-streak-stats.herokuapp.com/?user=chase-west&theme=prussian&hide_border=false)
 
-![](https://komarev.com/ghpvc/?username=chase-west)
-
 # Languages 
 ![chase-west's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chase-west&theme=prussian&show_icons=true&hide_border=false&layout=compact)
 
