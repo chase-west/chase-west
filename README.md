@@ -22,7 +22,6 @@ and I hope to incorporate it into more projects soon.
 ![chase-west's Streak](https://github-readme-streak-stats.herokuapp.com/?user=chase-west&theme=prussian&hide_border=false)
 
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
 
 
