@@ -10,9 +10,9 @@ I got more serious when I was 14.
 🏋️ Outside of coding a great passion of mine is weightlifting
 and I hope to incorporate it into more projects soon.
 
-🏆 I'm currently working on intern connect, a website that allows highschoolers to find internship opportunities. 
+🏆 I'm currently working on CodingReno, a website for my coding club! 
 
-📚 Currently taking a web development class. 
+📚 Currently taking classes at TMCC Community College 
 
 # Stats 
 
