@@ -25,7 +25,8 @@ Weekly Development Breakdown 📊
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Bash         0 secs          █████████████████████▓░░░   86.59 %
+Git Config   0 secs          ███▒░░░░░░░░░░░░░░░░░░░░░   13.41 %
 ```
 
 <!--END_SECTION:waka-->
