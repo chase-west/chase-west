@@ -10,7 +10,9 @@ I got more serious when I was 14.
 🏋️ Outside of coding a great passion of mine is weightlifting
 and I hope to incorporate it into more projects soon.
 
-🏆 I'm currently working on CanvasScheduleIntegration, an app that syncs your canvas assignments with different calenders and to do lists! 
+🏆 I'm currently working on Sustainable-Energy-Model for the Congressional App Challenge! 
+
+✍️ Read my yapping about coding [here](https://medium.com/@chase-west)
 
 📚 Currently taking classes at TMCC Community College 
 
