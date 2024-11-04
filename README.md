@@ -27,8 +27,7 @@ Weekly Development Breakdown 📊
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   17 mins         ███████████████████▓░░░░░   78.18 %
-Python       4 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.82 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
