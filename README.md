@@ -24,13 +24,7 @@ and I hope to incorporate it into more projects soon.
 ![chase-west's Streak](https://github-readme-streak-stats.herokuapp.com/?user=chase-west&theme=prussian&hide_border=false)
 
 Weekly Development Breakdown 📊
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
+<figure><embed src="https://wakatime.com/share/@chasewest/4b4d9788-9ff2-4360-bffc-affb37649e9b.svg"></embed></figure>
 
 
 # Languages 
