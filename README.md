@@ -24,6 +24,14 @@ and I hope to incorporate it into more projects soon.
 ![chase-west's Streak](https://github-readme-streak-stats.herokuapp.com/?user=chase-west&theme=prussian&hide_border=false)
 
 <!--START_SECTION:waka-->
+
+```txt
+Java             32 mins         ████████████████████████▒   97.96 %
+Markdown         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+CLASS            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+```
+
 <!--END_SECTION:waka-->
 
 
