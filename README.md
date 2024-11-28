@@ -26,11 +26,9 @@ and I hope to incorporate it into more projects soon.
 <!--START_SECTION:waka-->
 
 ```txt
-Java             2 hrs 41 mins   ████████████████████████▓   98.92 %
-XML              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
-Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-CLASS            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Java       2 hrs 26 mins   ████████████████████████▓   99.26 %
+XML        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
