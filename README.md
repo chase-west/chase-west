@@ -26,9 +26,7 @@ and I hope to incorporate it into more projects soon.
 <!--START_SECTION:waka-->
 
 ```txt
-Java       1 hr 43 mins    ████████████████████████▓   98.96 %
-XML        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Java   1 hr 3 mins     █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
