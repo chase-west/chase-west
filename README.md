@@ -26,7 +26,7 @@ and I hope to incorporate it into more projects soon.
 <!--START_SECTION:waka-->
 
 ```txt
-Java   1 hr 1 min      █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
