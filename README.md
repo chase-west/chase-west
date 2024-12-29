@@ -26,10 +26,8 @@ and I hope to incorporate it into more projects soon.
 <!--START_SECTION:waka-->
 
 ```txt
-Python   2 hrs 35 mins   █████████████████████████   99.40 %
-JSON     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-HTML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Python   49 mins         █████████████████████████   99.89 %
+HTML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
