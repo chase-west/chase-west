@@ -26,11 +26,11 @@ and I hope to incorporate it into more projects soon.
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript    33 mins         ████████████▒░░░░░░░░░░░░   49.46 %
-Image (svg)   15 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.15 %
-HTML          8 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.41 %
-Python        6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.69 %
-CSS           2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
+TypeScript    1 hr 33 mins    ███████████████▒░░░░░░░░░   60.80 %
+Image (svg)   15 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.28 %
+Python        12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 %
+JSON          12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 %
+HTML          8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.40 %
 ```
 
 <!--END_SECTION:waka-->
