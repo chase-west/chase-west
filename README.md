@@ -26,11 +26,7 @@ and I hope to incorporate it into more projects soon.
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript    1 hr            █████████████████▒░░░░░░░   69.53 %
-JSON          12 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.22 %
-Python        6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.95 %
-Git Config    4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
-JavaScript    1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
