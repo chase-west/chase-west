@@ -4,13 +4,9 @@
 👨‍🎓 I'm currently pursuing a CIT/Programming degree from community college
 while in high school. I plan to go to college and study Computer Science. 
 
-💻 I've technically been coding since I was 12 but
-I got more serious when I was 14. 
+💻 Coding since 12.
 
-🏋️ Outside of coding a great passion of mine is weightlifting
-and I hope to incorporate it into more projects soon.
-
-
+🏋️ I love weight lifting! Talk to me about it! 
 
 ✍️ Read my yapping about coding [here](https://medium.com/@chase-west)
 
