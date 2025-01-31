@@ -1,5 +1,5 @@
 # About me
-🙋‍♂️ Charles/Chase West 16 yr old. Contact me at chasewestbusiness@gmail.com
+🙋‍♂️ Charles/Chase West. Contact me at chasewestbusiness@gmail.com
 
 👨‍🎓 I'm currently pursuing a CIT/Programming degree from community college
 while in high school. I plan to go to college and study Computer Science. 
