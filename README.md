@@ -22,8 +22,7 @@ while in high school. I plan to go to college and study Computer Science.
 <!--START_SECTION:waka-->
 
 ```txt
-Python   8 mins          ██████████████████░░░░░░░   71.39 %
-Bash     3 mins          ███████░░░░░░░░░░░░░░░░░░   28.61 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
