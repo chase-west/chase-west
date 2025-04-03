@@ -22,7 +22,11 @@ while in high school. I plan to go to college and study Computer Science.
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+SQL          19 mins         ████████████░░░░░░░░░░░░░   48.27 %
+Python       18 mins         ███████████▓░░░░░░░░░░░░░   46.54 %
+JavaScript   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
+Other        0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
