@@ -22,11 +22,9 @@ while in high school. I plan to go to college and study Computer Science.
 <!--START_SECTION:waka-->
 
 ```txt
-Python       40 mins         ██████████████░░░░░░░░░░░   56.16 %
-JavaScript   20 mins         ███████░░░░░░░░░░░░░░░░░░   28.45 %
-Text         5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.00 %
-Bash         2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
-Markdown     2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
+Python       23 mins         ███████████████████████░░   91.96 %
+JavaScript   1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.57 %
+Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
 ```
 
 <!--END_SECTION:waka-->
