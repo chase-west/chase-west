@@ -22,11 +22,11 @@ while in high school. I plan to go to college and study Computer Science.
 <!--START_SECTION:waka-->
 
 ```txt
-JSON         1 hr 6 mins     ███████████▒░░░░░░░░░░░░░   45.95 %
-JavaScript   42 mins         ███████▒░░░░░░░░░░░░░░░░░   29.32 %
-Markdown     27 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.28 %
-TypeScript   4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
-Text         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+TypeScript   1 hr 20 mins    ███████▒░░░░░░░░░░░░░░░░░   29.70 %
+JSON         1 hr 6 mins     ██████░░░░░░░░░░░░░░░░░░░   24.52 %
+CSS          46 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.13 %
+Other        41 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.19 %
+Markdown     27 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.29 %
 ```
 
 <!--END_SECTION:waka-->
