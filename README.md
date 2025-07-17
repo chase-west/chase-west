@@ -8,8 +8,6 @@ while in high school. I plan to go to college and study Computer Science.
 
 🏋️ I love weight lifting! Talk to me about it! 
 
-✍️ Read my yapping about coding [here](https://medium.com/@chase-west)
-
 📚 Currently taking classes at TMCC Community College 
 
 # Stats 
