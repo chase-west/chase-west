@@ -20,11 +20,7 @@ while in high school. I plan to go to college and study Computer Science.
 <!--START_SECTION:waka-->
 
 ```txt
-C++                                3 hrs 37 mins   █████████████████████████   99.36 %
-Other                              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
-Git Config                         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
-YAML                               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-JSON                               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+C++   1 hr 59 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
