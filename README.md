@@ -20,11 +20,11 @@ while in high school. I plan to go to college and study Computer Science.
 <!--START_SECTION:waka-->
 
 ```txt
-Swift         13 hrs 33 mins  █████████████████████▓░░░   87.01 %
-Other         46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
-Bash          28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
-XML           24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
-Markdown      19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
+Swift         14 hrs 49 mins  ████████████████████▓░░░░   82.95 %
+Bash          1 hr 14 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 %
+Other         1 hr 1 min      █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 %
+XML           24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
+Markdown      19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
 ```
 
 <!--END_SECTION:waka-->
