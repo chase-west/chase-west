@@ -20,9 +20,10 @@ while in high school. I plan to go to college and study Computer Science.
 <!--START_SECTION:waka-->
 
 ```txt
-Java   4 mins          ███████████▒░░░░░░░░░░░░░   45.42 %
-C++    4 mins          ███████████░░░░░░░░░░░░░░   43.73 %
-Text   1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.85 %
+Java   19 mins         ███████████████████▒░░░░░   76.99 %
+C++    4 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.30 %
+Text   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
+XML    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
