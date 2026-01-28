@@ -1,14 +1,11 @@
 # About me
 🙋‍♂️ Charles/Chase West. Contact me at chasewestbusiness@gmail.com
 
-👨‍🎓 I'm currently pursuing a CIT/Programming degree from community college
-while in high school. I plan to go to college and study Computer Science. 
+👨‍🎓 AAS in CIT Programming.   
 
 💻 Coding since 12.
 
-🏋️ I love weight lifting! Talk to me about it! 
-
-📚 Currently taking classes at TMCC Community College 
+🏋️ I love weight lifting!  
 
 # Stats 
 
