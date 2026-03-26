@@ -8,10 +8,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-R            37 mins               █████████████████████░░░░   83.34 %
-Git Config   5 mins                ███░░░░░░░░░░░░░░░░░░░░░░   12.07 %
-Other        2 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
-Text         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
